@@ -1,3 +1,3 @@
 # Lunanaul
 ### Die Githubseite von Lunanaul
-_Diese Seite wird gepflegt von @Lunanaul _
+_Diese Seite wird gepflegt von @Lunanaul_
