@@ -1,1 +1,2 @@
 ErrorDocument 404 404.md
+Redirect permanent Kurse.md Kursfile.md
