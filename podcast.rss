@@ -25,5 +25,14 @@
 			<itunes:duration>29.424</itunes:duration>
 			<itunes:order>1</itunes:order>
 </item>
+<item>
+			<title>Katze</title>
+			<pubDate>Mon, 16 May 2022 00:00:00 +0300</pubDate>
+			<enclosure length="2250112" type="audio/mpeg" url="https://lunanaul.github.io/Katze.mp3" />
+			<guid isPermaLink="false">2481370908</guid>
+			<itunes:episodeType>full</itunes:episodeType>
+			<itunes:duration>93.744</itunes:duration>
+			<itunes:order>1</itunes:order>
+</item>
 	</channel>
 </rss>
