@@ -1,0 +1,8 @@
+||com.kp^
+||org.kp^
+||rep.kp^
+||kcna.kp^
+||gov.kp^
+||net.kp^
+||edu.kp^
+||co.kp^
