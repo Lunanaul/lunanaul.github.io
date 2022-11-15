@@ -6,3 +6,4 @@
 ||net.kp^
 ||edu.kp^
 ||co.kp^
+||criteo.com^
