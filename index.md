@@ -1,6 +1,3 @@
 # Lunanaul
 ### Die Githubseite von Lunanaul und LukDev
-<html>
-  <script type="text/javascript" src="https://cdnjs.buymeacoffee.com/1.0.0/button.prod.min.js" data-name="bmc-button" data-slug="lukdev" data-color="#40DCA5" data-emoji=""  data-font="Cookie" data-text="Buy me a coffee" data-outline-color="#000000" data-font-color="#ffffff" data-coffee-color="#FFDD00" ></script>
-</html>
 _Diese Seite wird gepflegt von [@Lunanaul](https://github.com/Lunanaul/)_
